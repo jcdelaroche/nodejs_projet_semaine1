@@ -1,0 +1,15 @@
+{
+  "name": "jcls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "pkg index.js --targets node14-win-x64,node14-linux-x64,node14-macos-x64 -o jcls"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
