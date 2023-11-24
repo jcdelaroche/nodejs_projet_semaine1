@@ -29,3 +29,5 @@ Puis simplement appeler la fonction
 ```
 jcls <nom-de-dossier(optionnel)>
 ```
+
+### Author : Jean-Christophe de La Roche
